@@ -9,4 +9,3 @@ Header in different sizes was added
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-"This is not as difficult as it seems."
