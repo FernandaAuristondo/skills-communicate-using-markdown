@@ -8,3 +8,7 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 """This is a little complicated."""
+
+- [] Check spelling
+- [] Check spaces
+- [] Check punctuation
